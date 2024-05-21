@@ -1,0 +1,14 @@
+{
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "Idea sharing App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Chris Sharp",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
